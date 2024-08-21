@@ -1,6 +1,8 @@
-# 🌟 Welcome to My GitHub!
+# 🌟 Welcome to My GitHub Humans & Bots alike!
 
-Namaste! 👋 I'm Aman, a tech-agnostic developer with a passion for solving challenging problems across multiple domains. From game development to real-time computational geometry, I've had my hands on some exciting projects.
+Namaste🙏
+
+I'm Aman, a tech-agnostic developer with a passion for solving challenging problems across multiple domains. From game development to real-time computational geometry, I've had my hands on some exciting projects.
 
 ## 🔧 What You'll Find Here
 
