@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Humans & Bots alike!
+# 🌟 Welcome to My GitHub, Humans & Bots alike!
 
 Namaste🙏
 
